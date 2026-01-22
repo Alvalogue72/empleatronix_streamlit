@@ -2,6 +2,8 @@
 
 **Empleatronix** es una aplicación web desarrollada con Streamlit para visualizar y gestionar datos de empleados. Permite analizar la información salarial de forma gráfica e interactiva.
 
+Prueba la aplicación en vivo [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empleatronixapp.streamlit.app/) 
+
 ## Descripción
 
 La aplicación carga los datos de los empleados desde un archivo CSV (`data/employees.csv`) y presenta la información de dos formas principales:
@@ -54,4 +56,4 @@ La aplicación carga los datos de los empleados desde un archivo CSV (`data/empl
 
 ## Autor
 
-Desarrollado por Alvalogue72
+Desarrollado por Álvaro López Guerrero
