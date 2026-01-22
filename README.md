@@ -24,12 +24,6 @@ La aplicación carga los datos de los empleados desde un archivo CSV (`data/empl
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 
-## Cómo ejecutar la aplicación
-
-### Requisitos previos
-
-Asegúrate de tener Python instalado en tu sistema.
-
 ## Instalación y Ejecución
 
 ### Ejecución con Docker Compose
