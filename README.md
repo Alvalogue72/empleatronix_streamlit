@@ -17,13 +17,6 @@ La aplicación carga los datos de los empleados desde un archivo CSV (`data/empl
   - **Mostrar/Ocultar Nombres:** Opción para visualizar o esconder los nombres en el eje Y.
   - **Mostrar/Ocultar Sueldos:** Opción para mostrar el valor exacto del salario sobre las barras.
 
-## Tecnologías utilizadas
-
-- [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-
 ## Instalación y Ejecución
 
 ### Ejecución con Docker Compose
@@ -53,6 +46,12 @@ La aplicación carga los datos de los empleados desde un archivo CSV (`data/empl
    docker-compose down
    ```
 
-## ✒️ Autor
+## Tecnologías Utilizadas
 
-**Álvaro López Guerrero** - CPIFP Alan Turing
+- **Streamlit**: Framework para crear aplicaciones web interactivas en Python
+- **Python 3.12**: Lenguaje de programación
+- **Docker**: Plataforma de contenedores para facilitar el despliegue
+
+## Autor
+
+Desarrollado por Alvalogue72
